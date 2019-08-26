@@ -8,10 +8,8 @@ sigma = 2 # noise standard deviation
 beta = rep(2,p) # true vector of coefficients
 X = matrix(rnorm(n*p), n, p) # n by p matrix of predictors
 
-# [ToDo] Set seed so each time you generate the same response below
+# [ToDo] Use generateY function to generate Y
 
-# [ToDo] Generate n-dimensional response Y that follows linear regression model Y = Xbeta + epsilon, where epsilon is normal zero with variance sigma^2 independent across samples
+# [ToDo] Use calculateBeta function to calculate beta_LS
 
-# [ToDo] Calculate beta_LS - least-squares solution for beta based on Y and X
-
-# [ToDo] Assess the estimation error measured by squared eucledian distance - ||beta - beta_LS||_2^2
+# [ToDo] Use calculateMSE to assess the estimation error measured by squared eucledian distance - ||beta - beta_LS||_2^2
