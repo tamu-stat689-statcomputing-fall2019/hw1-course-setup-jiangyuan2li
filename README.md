@@ -45,8 +45,6 @@ To practice using git, create a separate commit for the following changes:
 
 ## Part 4: Simple program
 
-To practice using git while programming, open the SimpleProgram.R and fill in the missing parts of the code (indicated by [ToDo], do not use any external libraries and do not erase any of the comments). Make sure your code is correct, then
+To practice using git while programming, open the **FunctionsLM.R** and write the corresponding functions for finding beta in linear model. Afterwards, open **SimpleProgram.R** and fill in the missing parts of the code (indicated by [ToDo], **do not use any external libraries or functions such as lm** and do not erase any of the comments). Make sure to make consistent commits throughout and push your changes to GitHub in the end.
 
-* Commit your code
 
-* Push your changes to Github.
