@@ -1,6 +1,6 @@
 # Assignment 1 - Getting started
 
-Student: Jiangyuan, Li
+Student: *Jiangyuan*, *Li*
 
 Potentially helpful resources:
 
