@@ -25,7 +25,7 @@ Potentially helpful resources:
 ## Part 2: Integration of Git, Github and R
 
 * Clone this repository to local machine using
-`git clone https://github.com/StatisticalComputingClass/CourseSetup.git` (make sure you are already within the folder you want it to clone to)
+`git clone address to folder` (make sure you are already within the folder you want it to clone to)
 
 * Open Rstudio and make sure you have the version control enabled, see [Rstudio version control](https://support.rstudio.com/hc/en-us/articles/200532077?version=1.1.463&mode=desktop) for further help.
 
